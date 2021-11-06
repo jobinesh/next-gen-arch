@@ -1,1 +1,2 @@
-# Reference Implementations for Various Next Generation Architectural Patterns
+# Next Generation Architectural Patterns
+This repositroy contains reference implementations for various Next Generation Architectural Patterns. Stay tuned !
